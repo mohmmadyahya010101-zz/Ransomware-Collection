@@ -1,5 +1,5 @@
 # Ransomware-Collection
 
-Only for Educational Purpose. I'm not responsible for what you are do with this.
+Warning: This project is for Education purpose only, I'm not Responsible for any damage or harm
 
-That is Just a Joke :v
+And above warning is just a joke :v 
